@@ -3,7 +3,7 @@ This is my first project. It was a school project that makes with my team
 
 ## requirement
 * Programs that can run code
-* python 2.7 or higher
+* python 3.7 or higher
 * opencv
 * dlib
 * face_recognition
